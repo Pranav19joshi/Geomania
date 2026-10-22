@@ -1,0 +1,4603 @@
+{
+  "leaf": false,
+  "axis": "longitude",
+  "threshold": 19.8366645,
+  "left": {
+    "leaf": false,
+    "axis": "longitude",
+    "threshold": -2.214231,
+    "left": {
+      "leaf": false,
+      "axis": "longitude",
+      "threshold": -66.047179,
+      "left": {
+        "leaf": false,
+        "axis": "latitude",
+        "threshold": 9.612964,
+        "left": {
+          "leaf": false,
+          "axis": "longitude",
+          "threshold": -77.015725,
+          "left": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": -80.4696395,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": -169.5688575,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": -170.681704,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -170.7363125,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 0
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 1
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -170.60758950000002,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 2
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 3
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": -81.6925145,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -82.64816300000001,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 4
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 5
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 7.987683,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 6
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 7
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": -0.9673579999999999,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": -3.4857604999999996,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -6.578317999999999,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 8
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 9
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -79.008863,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 10
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 11
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 7.352256000000001,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 0.0083395,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 12
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 13
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -79.83595700000001,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 14
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 15
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": -17.310406999999998,
+            "left": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": -33.4050145,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": -41.1670935,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -46.1252595,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 16
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 17
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -37.322092999999995,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 18
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 19
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": -23.11827,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -29.5601165,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 20
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 21
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -18.604490499999997,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 22
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 23
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": -0.112319,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": -13.7065765,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -69.85885049999999,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 24
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 25
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -11.190957000000001,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 26
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 27
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 4.9878885,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -75.5273685,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 28
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 29
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -74.416146,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 30
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 31
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "leaf": false,
+          "axis": "longitude",
+          "threshold": -80.9579415,
+          "left": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": -95.8492325,
+            "left": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 33.042277,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": -101.709667,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -105.3787855,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 32
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 33
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 20.5895705,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 34
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 35
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 49.3740325,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -110.5029115,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 36
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 37
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -115.549858,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 38
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 39
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 15.47884,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": -90.732693,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -91.346362,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 40
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 41
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -90.2901905,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 42
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 43
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 31.671335499999998,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 17.371695000000003,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 44
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 45
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 40.701363,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 46
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 47
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": 18.366682,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": -68.88369800000001,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": -68.958467,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -69.080498,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 48
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 49
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 12.140917,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 50
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 51
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 18.038181,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 12.1304175,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 52
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 53
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -66.5683425,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 54
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 55
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 18.559344000000003,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": -69.8425915,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -69.93460350000001,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 56
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 57
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -69.5982585,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 58
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 59
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 38.331396999999996,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 19.460835000000003,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 60
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 61
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 45.418402,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 62
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 63
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "leaf": false,
+        "axis": "latitude",
+        "threshold": 40.19918199999999,
+        "left": {
+          "leaf": false,
+          "axis": "latitude",
+          "threshold": 12.577023,
+          "left": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": -23.8974075,
+            "left": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": -32.870641,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": -34.140772999999996,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -34.610677499999994,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 64
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 65
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -56.459433000000004,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 66
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 67
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": -57.128592,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -29.156319,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 68
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 69
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -31.443192500000002,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 70
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 71
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": -51.5188615,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": -17.915654,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -64.459671,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 72
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 73
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -17.3350175,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 74
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 75
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": -41.7557795,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -15.127091,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 76
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 77
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -36.4221925,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 78
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 79
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": -16.45627,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": -64.7726175,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 18.0425905,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -64.83381399999999,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 80
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 81
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 18.329151500000002,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 82
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 83
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": -64.660482,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 17.7474435,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 84
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 85
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -16.919403000000003,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 86
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 87
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 36.137139000000005,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 14.813114500000001,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -15.430421500000001,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 88
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 89
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 16.2737155,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 90
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 91
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": -7.670422500000001,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 39.0200685,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 92
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 93
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -5.3528455,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 94
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 95
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "leaf": false,
+          "axis": "longitude",
+          "threshold": -7.322055499999999,
+          "left": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": 63.8226455,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": -8.655337,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": -20.5981235,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -49.666962,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 96
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 97
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 52.724597,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 98
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 99
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 52.115113,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 41.235327999999996,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 100
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 101
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 53.5962315,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 102
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 103
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": -22.4483935,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": -51.1088055,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 66.9510255,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 104
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 105
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -50.1237755,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 106
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 107
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 65.2627535,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -20.600426,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 108
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 109
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 65.65966800000001,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 110
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 111
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": 54.2320605,
+            "left": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 52.934354,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 48.029543000000004,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 41.9624955,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 112
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 113
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 51.676225,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 114
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 115
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": -4.631510499999999,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -4.727541,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 116
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 117
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -4.508057,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 118
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 119
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 61.5514865,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 54.399369,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -4.4745105,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 120
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 121
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 57.258408,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 122
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 123
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 62.103814,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 62.010234,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 124
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 125
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -6.823114,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 126
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 127
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "right": {
+      "leaf": false,
+      "axis": "latitude",
+      "threshold": 46.631693999999996,
+      "left": {
+        "leaf": false,
+        "axis": "latitude",
+        "threshold": 41.8372235,
+        "left": {
+          "leaf": false,
+          "axis": "latitude",
+          "threshold": 9.207640999999999,
+          "left": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": 0.372295,
+            "left": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": -19.269712,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": -23.8522075,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -26.5930535,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 128
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 129
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 17.037078,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 130
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 131
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 0.28817950000000003,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 0.056646,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 132
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 133
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 6.702510999999999,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 134
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 135
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 3.54939,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": -0.7597915,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 6.4258445,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 136
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 137
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 0.030568500000000002,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 138
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 139
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 6.8632525,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 6.3163765,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 140
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 141
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 6.343472,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 142
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 143
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": 35.933755000000005,
+            "left": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 35.484066999999996,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 12.586262000000001,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 8.0506305,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 144
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 145
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 34.662206499999996,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 146
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 147
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 14.433075500000001,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 14.3717835,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 148
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 149
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 35.8670415,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 150
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 151
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 14.1936945,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 10.10108,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 1.873257,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 152
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 153
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 36.79472,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 154
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 155
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 39.932064499999996,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 14.34199,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 156
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 157
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 19.5417865,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 158
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 159
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "leaf": false,
+          "axis": "longitude",
+          "threshold": 13.3029855,
+          "left": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": 7.417357,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 1.55535,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 42.545843000000005,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 1.504356,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 160
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 161
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 42.630817,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 162
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 163
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 42.5924075,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 1.609223,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 164
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 165
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 4.821999,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 166
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 167
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 43.9407785,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 12.445314499999999,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 11.443979500000001,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 168
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 169
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 43.9183095,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 170
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 171
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 12.4455445,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 10.855679,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 172
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 173
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 43.962449,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 174
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 175
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": 45.319342,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 18.947659,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 16.451760999999998,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 44.42429,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 176
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 177
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 42.873637,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 178
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 179
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 42.746472,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 42.400577999999996,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 180
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 181
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 43.153922,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 182
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 183
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 15.3398225,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 14.523514500000001,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 45.986844000000005,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 184
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 185
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 46.0197315,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 186
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 187
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 16.8019275,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 46.1429715,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 188
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 189
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 18.2238725,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 190
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 191
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "leaf": false,
+        "axis": "latitude",
+        "threshold": 50.208729,
+        "left": {
+          "leaf": false,
+          "axis": "longitude",
+          "threshold": 9.5402335,
+          "left": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": 5.9648425,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": -2.0412395,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 49.211487,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 49.195198500000004,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 192
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 193
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": -2.1309455,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 194
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 195
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 4.4547455,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 1.0180965,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 196
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 197
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 49.805914,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 198
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 199
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 49.1474135,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 9.516372,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 9.505115,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 200
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 201
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 47.176632,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 202
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 203
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 6.1568475,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 49.780643,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 204
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 205
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 6.3100195,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 206
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 207
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": 15.812136500000001,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 13.5450625,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 47.2894855,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 9.5576945,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 208
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 209
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 48.3344675,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 210
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 211
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 48.4834115,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 47.569414,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 212
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 213
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 49.406544499999995,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 214
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 215
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 48.3162515,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 17.8063705,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 47.585223,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 216
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 217
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 47.575269000000006,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 218
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 219
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 17.904061,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 49.1184095,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 220
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 221
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 48.981503000000004,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 222
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 223
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "leaf": false,
+          "axis": "latitude",
+          "threshold": 53.379773,
+          "left": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": 5.802237,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 4.463939,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 3.3141059999999998,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 0.1567415,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 224
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 225
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 50.970608999999996,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 226
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 227
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 51.397442,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 50.803582,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 228
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 229
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 52.15009,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 230
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 231
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 11.203414500000001,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 6.6469535,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 52.074269,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 232
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 233
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 52.2650865,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 234
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 235
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 15.435027,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 50.999272500000004,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 236
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 237
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 51.6579135,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 238
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 239
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": 58.096320500000004,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 10.6794835,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 9.212606000000001,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 8.505557,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 240
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 241
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 56.1110345,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 242
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 243
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 13.033492500000001,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 55.546087,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 244
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 245
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 56.1920205,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 246
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 247
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 60.607332,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 13.0026145,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 8.72427,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 248
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 249
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 17.688094,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 250
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 251
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 63.045349,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 10.5610365,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 252
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 253
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 65.3900105,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 254
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 255
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "right": {
+    "leaf": false,
+    "axis": "longitude",
+    "threshold": 56.747071000000005,
+    "left": {
+      "leaf": false,
+      "axis": "latitude",
+      "threshold": 39.199987,
+      "left": {
+        "leaf": false,
+        "axis": "latitude",
+        "threshold": 2.0169325000000002,
+        "left": {
+          "leaf": false,
+          "axis": "latitude",
+          "threshold": -22.5773525,
+          "left": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": -27.008287,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 27.753652000000002,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": -29.6698405,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 26.3069315,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 256
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 257
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 27.481398,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 258
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 259
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": -29.079552,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -29.523158000000002,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 260
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 261
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 29.371595,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 262
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 263
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 30.9956775,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 26.338301,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 24.8976605,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 264
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 265
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -25.482173500000002,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 266
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 267
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": -26.4492965,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 31.3834565,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 268
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 269
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -26.259897,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 270
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 271
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": -1.609785,
+            "left": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": -2.4513345,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": -20.209579,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 26.609446,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 272
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 273
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 25.900027,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 274
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 275
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 30.1109625,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 29.784740499999998,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 276
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 277
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 30.245467499999997,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 278
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 279
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 32.721208000000004,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 0.23390650000000002,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 30.394651,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 280
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 281
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 32.5656395,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 282
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 283
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 35.9624695,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 0.1487075,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 284
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 285
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 37.1638935,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 286
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 287
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "leaf": false,
+          "axis": "latitude",
+          "threshold": 31.198091499999997,
+          "left": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": 25.2565495,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 55.0247945,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 18.2925425,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 33.7127595,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 288
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 289
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 25.141465,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 290
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 291
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 24.9509015,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 24.232899500000002,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 292
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 293
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 55.609399499999995,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 294
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 295
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 51.339219,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 35.528559,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 30.1870645,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 296
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 297
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 50.969534499999995,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 298
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 299
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 55.4165945,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 51.445341,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 300
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 301
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 25.4089965,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 302
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 303
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": 35.4151145,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 34.579066499999996,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 24.0051025,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 38.084275,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 304
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 305
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 29.103288499999998,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 306
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 307
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 32.161159999999995,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 31.830723,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 308
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 309
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 32.6867315,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 310
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 311
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 33.814289,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 31.991483,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 31.8678015,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 312
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 313
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 33.657934499999996,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 314
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 315
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 35.6827495,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 33.889125500000006,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 316
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 317
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 35.940526500000004,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 318
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 319
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "leaf": false,
+        "axis": "latitude",
+        "threshold": 48.8657045,
+        "left": {
+          "leaf": false,
+          "axis": "longitude",
+          "threshold": 22.587068,
+          "left": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": 42.3029435,
+            "left": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 41.3610755,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 40.709444000000005,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 20.688204,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 320
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 321
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 20.8162565,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 322
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 323
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 21.477499,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 20.813865999999997,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 324
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 325
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 41.860837000000004,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 326
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 327
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 44.8865945,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 43.716918500000006,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 21.346151,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 328
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 329
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 20.934942,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 330
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 331
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 47.3143565,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 46.115943,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 332
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 333
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 21.172835499999998,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 334
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 335
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": 26.3357415,
+            "left": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 43.081365,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 41.841589,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 23.693779499999998,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 336
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 337
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 24.257926,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 338
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 339
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 45.400084,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 24.597137,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 340
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 341
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 46.75667,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 342
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 343
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 30.610486,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 43.684421,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 42.161158,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 344
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 345
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 46.0989275,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 346
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 347
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 35.907994,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 46.959708000000006,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 348
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 349
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 42.357003500000005,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 350
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 351
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "leaf": false,
+          "axis": "latitude",
+          "threshold": 57.306679,
+          "left": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": 24.4350325,
+            "left": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 54.78135,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 51.0710805,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 21.4107665,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 352
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 353
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 53.266726000000006,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 354
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 355
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 56.101558,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 22.9504145,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 356
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 357
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 22.89912,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 358
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 359
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 27.099473,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 55.718514,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 54.76602,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 360
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 361
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 56.5103225,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 362
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 363
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 33.7260305,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 50.890342000000004,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 364
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 365
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 40.2441065,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 366
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 367
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": 24.544966,
+            "left": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 60.238594500000005,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 60.029093,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 58.797182,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 368
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 369
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 20.0056145,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 370
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 371
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 60.5781595,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 20.196054,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 372
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 373
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 63.094019,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 374
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 375
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 26.48785,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 59.091001500000004,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 58.3126595,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 376
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 377
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 61.081799000000004,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 378
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 379
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 27.7427075,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 59.125260499999996,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 380
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 381
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 62.845119,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 382
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 383
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "right": {
+      "leaf": false,
+      "axis": "longitude",
+      "threshold": 105.6468505,
+      "left": {
+        "leaf": false,
+        "axis": "latitude",
+        "threshold": 21.440271,
+        "left": {
+          "leaf": false,
+          "axis": "longitude",
+          "threshold": 102.61602149999999,
+          "left": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": 96.862802,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 80.4143305,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 79.8418465,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 76.392706,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 384
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 385
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 7.338308,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 386
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 387
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 7.2079105000000006,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 6.1450569999999995,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 388
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 389
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 8.190878,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 390
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 391
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 13.494153,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 5.0051805,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 2.8048529999999996,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 392
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 393
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 6.811468,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 394
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 395
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 17.883630500000002,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 100.8346765,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 396
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 397
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 102.51791399999999,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 398
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 399
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": 11.074271,
+            "left": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 1.351102,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 1.3005935000000002,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -4.821801499999999,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 400
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 401
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 103.813906,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 402
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 403
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 1.4426394999999999,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 103.8421325,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 404
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 405
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 5.6664565,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 406
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 407
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 16.4559885,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 12.712608,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 104.77893449999999,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 408
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 409
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 13.898792499999999,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 410
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 411
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 17.9528425,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 102.6851755,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 412
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 413
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 18.0230795,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 414
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 415
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "leaf": false,
+          "axis": "latitude",
+          "threshold": 27.5273425,
+          "left": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": 89.393496,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 84.46292249999999,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 59.1771145,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 23.059086,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 416
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 417
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 76.41488749999999,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 418
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 419
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 26.605320499999998,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 24.4461655,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 420
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 421
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 86.3362505,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 422
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 423
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 90.53071750000001,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 26.8970945,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 23.849834,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 424
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 425
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 89.9001155,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 426
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 427
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 91.32752500000001,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 26.960324,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 428
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 429
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 91.72194350000001,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 430
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 431
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": 42.815157,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 76.8308725,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 41.794593500000005,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 41.2426215,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 432
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 433
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 73.892324,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 434
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 435
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 82.51181650000001,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 28.967733,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 436
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 437
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 84.548236,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 438
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 439
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 75.9848325,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 50.177473000000006,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 74.37793099999999,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 440
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 441
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 52.8921405,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 442
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 443
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 49.0705445,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 95.19092,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 444
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 445
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 50.758457500000006,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 446
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 447
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "right": {
+        "leaf": false,
+        "axis": "latitude",
+        "threshold": 15.1918325,
+        "left": {
+          "leaf": false,
+          "axis": "longitude",
+          "threshold": 131.407026,
+          "left": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": 2.7289295,
+            "left": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": -9.0649175,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": -10.434863,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -10.545385,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 448
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 449
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 105.679562,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 450
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 451
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 113.10067599999999,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -2.703212,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 452
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 453
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 119.54537450000001,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 454
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 455
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 116.9910005,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 11.426311,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 107.34100000000001,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 456
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 457
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 13.176783,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 458
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 459
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 10.2711255,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 124.067284,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 460
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 461
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 122.56674,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 462
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 463
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "latitude",
+            "threshold": -23.015169999999998,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 170.029065,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 146.234769,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -34.376858,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 464
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 465
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -41.253131499999995,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 466
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 467
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": -39.815196,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -41.677774,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 468
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 469
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": -38.103171,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 470
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 471
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 13.507855,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 13.417595500000001,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 13.3094015,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 472
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 473
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 144.77828849999997,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 474
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 475
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 15.1265495,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 13.548323499999999,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 476
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 477
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 145.72852699999999,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 478
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 479
+                  }
+                }
+              }
+            }
+          }
+        },
+        "right": {
+          "leaf": false,
+          "axis": "latitude",
+          "threshold": 23.4869225,
+          "left": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": 114.1107585,
+            "left": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 113.5554215,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 22.162554,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 107.013897,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 480
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 481
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 113.5425345,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 482
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 483
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 113.57854950000001,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 22.149428999999998,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 484
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 485
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 114.0138195,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 486
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 487
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "longitude",
+              "threshold": 120.5067155,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 22.388277000000002,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 22.3070315,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 488
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 489
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 114.240399,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 490
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 491
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 145.719781,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 120.93432000000001,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 492
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 493
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 145.7573415,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 494
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 495
+                  }
+                }
+              }
+            }
+          },
+          "right": {
+            "leaf": false,
+            "axis": "longitude",
+            "threshold": 127.29144550000001,
+            "left": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 37.183937,
+              "left": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 24.61681,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 120.714313,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 496
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 497
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 25.236521000000003,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 498
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 499
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 47.0796975,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 126.4401785,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 500
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 501
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 48.0463875,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 502
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 503
+                  }
+                }
+              }
+            },
+            "right": {
+              "leaf": false,
+              "axis": "latitude",
+              "threshold": 36.0627015,
+              "left": {
+                "leaf": false,
+                "axis": "longitude",
+                "threshold": 131.8443225,
+                "left": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 35.1058295,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 504
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 505
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 34.976293,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 506
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 507
+                  }
+                }
+              },
+              "right": {
+                "leaf": false,
+                "axis": "latitude",
+                "threshold": 37.631765,
+                "left": {
+                  "leaf": false,
+                  "axis": "longitude",
+                  "threshold": 129.2144455,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 508
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 509
+                  }
+                },
+                "right": {
+                  "leaf": false,
+                  "axis": "latitude",
+                  "threshold": 40.2568285,
+                  "left": {
+                    "leaf": true,
+                    "geocell_id": 510
+                  },
+                  "right": {
+                    "leaf": true,
+                    "geocell_id": 511
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

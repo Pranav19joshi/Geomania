@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geomania</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Geomania</h1>
+            <p>Discover the location of any photograph</p>
+        </header>
+
+        <main>
+            <!-- Upload Section -->
+            <section id="upload-section" class="panel">
+                <div id="drop-zone" class="drop-zone">
+                    <span class="drop-icon">
+                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                            <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+                            <circle cx="8.5" cy="8.5" r="1.5"></circle>
+                            <polyline points="21 15 16 10 5 21"></polyline>
+                        </svg>
+                    </span>
+                    <p class="drop-text">Drag & drop a photo<br><span class="highlight">or click to browse</span></p>
+                    <input type="file" id="file-input" accept=".jpg, .jpeg, .png, .webp" hidden>
+                </div>
+                
+                <div id="preview-container" class="hidden">
+                    <div class="image-wrapper">
+                        <img id="image-preview" src="" alt="Selected Photo">
+                    </div>
+                    <div class="action-buttons">
+                        <button id="predict-btn" class="btn-primary">Find Location</button>
+                        <button id="reset-btn" class="btn-secondary">New Photo</button>
+                    </div>
+                </div>
+                
+                <div id="loading-indicator" class="hidden">
+                    <div class="pulse-ring"></div>
+                    <p id="loading-text">Locating...</p>
+                </div>
+            </section>
+
+            <!-- Error Message -->
+            <div id="error-message" class="hidden error-panel"></div>
+
+            <!-- Result Section -->
+            <section id="result-section" class="hidden">
+                <div class="result-grid">
+                    <!-- Left side: Coordinates & Actions -->
+                    <div class="result-details panel">
+                        <h2>Location Found</h2>
+                        
+                        <div class="coord-box">
+                            <div class="coord">
+                                <span class="coord-label">Latitude</span>
+                                <span id="res-lat" class="coord-value">--</span>
+                            </div>
+                            <div class="coord">
+                                <span class="coord-label">Longitude</span>
+                                <span id="res-lon" class="coord-value">--</span>
+                            </div>
+                        </div>
+
+                        <div class="action-stack">
+                            <button id="copy-btn" class="btn-outline">
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                                Copy Coordinates
+                            </button>
+                            <a id="osm-link" class="btn-outline" target="_blank">
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+                                Open Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right side: Map -->
+                    <div class="map-container panel">
+                        <div id="map"></div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+    <script src="/static/app.js"></script>
+</body>
+</html>

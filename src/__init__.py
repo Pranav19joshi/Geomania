@@ -1,0 +1,3 @@
+"""
+Geomania — geolocation inference package.
+"""

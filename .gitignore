@@ -1,0 +1,38 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment / secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large model artifacts — hosted on Hugging Face, NOT committed to Git
+# https://huggingface.co/JoshiPranav19/GeoMania
+models/*.pt
+data/*.pt
+
+# Hugging Face local cache (if ever written inside the project)
+.cache/
+
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Temporary uploads
+test_uploads/
+tmp/
+
+# IDEs
+.vscode/
+.idea/
+

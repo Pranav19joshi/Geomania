@@ -1,0 +1,26 @@
+# Core deep-learning
+torch>=2.1.0
+torchvision>=0.16.0
+
+# OpenCLIP (provides open_clip.create_model_and_transforms)
+open-clip-torch>=2.24.0
+
+# Image handling
+Pillow>=10.0.0
+
+# Data / utilities
+numpy>=1.26.0
+pandas>=2.1.0
+
+# Clustering
+scikit-learn>=1.4.0
+
+# API / Backend
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-multipart>=0.0.6
+
+# Artifact hosting — downloads large .pt files from Hugging Face when
+# local copies are absent. Works anonymously for public repos; set HF_TOKEN
+# environment variable for private repositories.
+huggingface_hub>=0.20.0
